@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "Readable Ravelry",
+  "version": "0.1.0",
+  "description": "Extension to make Ravelry readable for those sensitive to light/brightness.",
+  
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://www.ravelry.com/*"]
+  }]
+
+}

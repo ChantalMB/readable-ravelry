@@ -1,0 +1,259 @@
+body {
+  background-color: #002b36 !important;
+}
+
+#page_header {
+  background-color: #073642 !important;
+}
+
+.news_item, .welcome_headline {
+  color: #93a1a1 !important;
+  border-color: #93a1a1 !important;
+}
+
+.c-avatar.c-avatar--small.avatar_small {
+  background-color: #002b36 !important;
+}
+
+.box_title {
+  background-color: #fdf6e3 !important;
+  border-color: #073642 !important;
+}
+
+.box_contents {
+  background-color: #eee8d5 !important;
+  border-color: #073642 !important;
+}
+
+.c-navigation_dropdown__column, .c-navigation_dropdown__content_wrapper {
+  background-color: #fdf6e3 !important;
+}
+.c-navigation_indicator {
+  color: #93a1a1 !important;
+}
+
+* {
+  color: #839496 !important;
+}
+
+
+/* ADVANCE SEARCH */
+
+.advanced_search__content {
+  background-color: #002b36 !important;
+}
+
+.control_option_picker__pick_list {
+  background-color: #134754 !important;
+}
+
+.page_bar__current, .page_bar__page, .form_select.small_170_with_icon.control_option_picker.control_option_picker--sort, .form_select.small_170_with_icon.control_option_picker.control_option_picker--view, .page_bar__hopper.hopper {
+  background-color: #134754 !important;
+}
+
+.advanced_search__navigation.navigation_v2--advanced_search {
+  background-color: #134754 !important;
+}
+
+#query, #q, #search, #search_field {
+  background-color: #eee8d5 !important;
+}
+
+.clicker_v2.clicker_v2--standard {
+  background-color: #eee8d5 !important;
+}
+
+.advanced_search__facets {
+  background-color: #073642 !important;
+  border-color: #eee8d5 !important;
+}
+
+.form_select, .advanced_search__facet.facet_box, .advanced_search__facet_content.facet_content {
+  background-color: #134754 !important;
+  border-color: #eee8d5 !important;
+
+}
+
+#prefooter {
+  background-color: #002b36 !important;
+}
+
+/* patterns */
+
+#advanced_search_link span {
+  color: #eee8d5 !important;
+}
+
+.tag, .tag a {
+  background-color: #eee8d5 !important;
+  color: #586e75 !important;
+}
+
+button[type="submit"] {
+  color: #586e75 !important;
+}
+
+/* popular */
+
+.clicker.clicker_container.clicker_v2.clicker_v2--standard.clicker_v2--advanced_search {
+  background-color: #d66253 !important;
+}
+
+.clicker.clicker_container.clicker_v2.clicker_v2--standard.clicker_v2--advanced_search span {
+  color: #eee8d5 !important;
+}
+
+/* forums home */
+
+.tabs__sections.tabs__sections--subnavigation {
+  background-color: #134754 !important;
+}
+
+th {
+  background-color: #eee8d5 !important;
+}
+
+#quicknav, #quicknav::before, #quicknav::after {
+  background-color: #eee8d5 !important;
+}
+
+/* forum threads */
+
+.clicker.clicker_container.clicker_v2.clicker_v2--standard.clicker_v2--reply {
+  background-color: #002b36 !important;
+}
+
+.hopper {
+  background-color: #134754 !important;
+}
+
+blockquote {
+  background-color: #eee8d5 !important;
+}
+
+/* projects */
+
+.fake_form_select.fake_form_select--filter_menu.vertical_form.x_small {
+  background-color: #eee8d5 !important;
+}
+
+#advanced_search_link {
+  color: #eee8d5 !important;
+}
+
+/* queue */
+
+.sort_field.rsp_hidden {
+  background-color: #002b36 !important;
+  border-color: #002b36 !important;
+}
+
+/* library */
+
+#library_navigation {
+  background-color: #eee8d5 !important;
+}
+
+.shelf_label {
+  background-color: #002b36 !important;
+  color: #eee8d5 !important;
+}
+
+.volume_details__title_bar.rsp_hidden {
+  border-color: #586e75 !important;
+
+}
+.tab.long_tab.patterns_tab a {
+  background-color: #002b36 !important;
+}
+
+/* friends */
+
+.fake_form_select.fake_form_select--filter_menu.vertical_form.small_240, .filter_menu__options {
+  background-color: #eee8d5 !important;
+}
+
+.clicker_v2 {
+  background-color: #eee8d5 !important;
+}
+
+/* designer page */
+
+.favorites_button.heartpuff.button.button_false {
+  background-color: #134754 !important;
+}
+
+.favorites_button.heartpuff.button.button_false span {
+  color: #eee8d5 !important;
+}
+
+/* groups */
+
+#forum_search_form {
+  background-color: #eee8d5 !important;
+}
+
+
+/* events */
+
+.month {
+  background-color: #eee8d5 !important;
+}
+
+/* messages */
+
+.message_row.message_row--read.resizable_table__row.swipe_message, .message_row.message_row--read.resizable_table__row-stripe.swipe_message {
+  background-color: #002b36 !important;
+}
+
+#message_list {
+  border-color: #eee8d5 !important;
+}
+
+.resizable_table__cell-header {
+  background-color: #eee8d5 !important;
+}
+
+#compose_menu {
+  background-color: #002b36 !important;
+}
+
+#message_container {
+  background-color: #134754 !important;
+}
+
+#message_subject {
+  background-color: #eee8d5 !important;
+}
+
+.wmd_frame {
+  background-color: #eee8d5 !important;
+}
+
+#message_content {
+  background-color: #073642 !important;
+}
+
+/* purchases */
+
+.fake_form_select.vertical_form.small {
+  background-color: #eee8d5 !important;
+}
+
+.d-tlist.d-tlist--linked.d-tlist--valign {
+  background-color: #fdf6e3 !important;
+  border-color: #073642 !important;
+}
+
+.d-tlist__global_label {
+  background-color: #eee8d5 !important;
+}
+
+/* contributions */
+tr[id^="draft_pattern_"]	 {
+  background-color: #fdf6e3 !important;
+}
+
+#tabset {
+  background-color: #134754 !important;
+}
