@@ -9,3 +9,4 @@ I'm not a professional when it comes to web design&mdash; in fact, my major is h
 ### Current Known Issues
 - Advance search pages seem to have white block near bottom of the page —> presently unsure of how to fix it, cannot find element in HTML
 - Advanced button on project page —> not consistent with theme because my attempts to get the text to change colour have been futile
+- Changing colour of Breadcrumb seperators

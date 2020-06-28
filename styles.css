@@ -28,6 +28,11 @@ body {
 .c-navigation_dropdown__column, .c-navigation_dropdown__content_wrapper {
   background-color: #fdf6e3 !important;
 }
+
+.navigation_v2__tab.navigation_v2__tab--active.navigation_v2__tab--dropdown {
+  background-color: #134754 !important;
+}
+
 .c-navigation_indicator {
   color: #93a1a1 !important;
 }
@@ -76,6 +81,60 @@ body {
 
 #prefooter {
   background-color: #002b36 !important;
+}
+
+/* pattern page */
+
+.breadcrumbs__indicator.subnavigation_only, .navigation_v2__menu {
+  background-color: #eee8d5 !important;
+}
+
+span[class^="breadcrumb_divider"] {
+  color: #eee8d5 !important;
+}
+
+.breadcrumbs__tools {
+  background-color: #002b36 !important;
+}
+
+#pattern_button_set {
+  background-color: #002b36 !important;
+}
+
+#pattern_button_set a {
+  background-color: #134754 !important;
+}
+
+#pattern_button_set a > span {
+  color: #eee8d5 !important;
+}
+
+img[alt^="Search"] {
+  background-color: #002b36 !important;
+}
+
+.notebook_card, .c-notebook_tallcard__pager, .c-notebook_tallcard__details, .c-notebook_tallcard__sidebar {
+  border-color: #134754 !important;
+}
+
+.notebook_card__sidebar {
+  background-color: #134754 !important;
+}
+
+.c-notebook_tallcard, .c-notebook_tallcard__carousel, .c-notebook_tallcard__vitals, .c-notebook_tallcard__sidebar {
+  background-color: #073642 !important;
+}
+
+.c-comment__content.bubble {
+  border-color: #eee8d5 !important;
+}
+
+.c-comment__content.bubble::before {
+  background-color: #eee8d5 !important;
+}
+
+.c-comment__content.bubble::after {
+  background-image: url("") !important;
 }
 
 /* patterns */
