@@ -6,7 +6,5 @@ This is a simple browser extension which applies the [Solarized Dark](https://et
 
 I'm not a professional when it comes to web design&mdash; in fact, my major is history and my **minor** is computer science, so I'm barely a student in it! Due to this, I anticipate that this extension has some imperfections that I'm not spotting; [here's a form](https://forms.gle/fHaxTqVwdk3KVRAE8) you can submit any comments/feedback to and I'll address any issues when I get a chance!
 
-### Current Known Issues
-- Advance search pages seem to have white block near bottom of the page —> presently unsure of how to fix it, cannot find element in HTML
-- Advanced button on project page —> not consistent with theme because my attempts to get the text to change colour have been futile
-- Changing colour of Breadcrumb seperators
+### UPDATE:
+As of March 24th 2020, Ravelry now has its own official dark mode! Feel free to continue to use this extension if you prefer the palette, I'll certainly be keeping it available in the Chrome and Firefox stores, but I will not be updating this little project further. Thank you for using it, I'm happy I was able to help some of y'all!
